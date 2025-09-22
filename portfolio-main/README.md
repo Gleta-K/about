@@ -5,13 +5,13 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://nevillionaire.github.io/portfolio)
+[Live Demo Link](https://gleta-k.github.io/about/)
 
 
 ## Authors
 
-- [@Github](https://github.com/nevillionaire)
-- [@Twitter](https://twitter.com/nevillionaire)
+- [@Github](https://github.com/Gleta-K)
+- [@X](https://x.com/Gleta_K)
 
 ## 🤝 Contributing
 
